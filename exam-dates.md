@@ -1,9 +1,5 @@
 # Exam dates
 
-Exam practicalities
-
-Exam dates
-
 Your exam dates depend upon whether your courses are quarter or semester courses, and whether they take place in the spring or autumn semester.
 
 You will find the exact exam dates on [Digital Exam](https://eksamen.cbs.dk/) - both for quarter and semester courses and courses at Summer University.
@@ -78,14 +74,14 @@ You can see your specific dates in How to find your exam dates below.
 
 ## How to find your exam dates
 
-You can see the exam dates for the courses, you are registered for, from the following dates:
+You can see the exam dates for the courses, you are registered for, from the following dates:
 
 -   **Autumn semester**: 1 September - on [Digital Exam](https://eksamen.cbs.dk/)
 -   **Spring semester**: 1 February - on [Digital Exam](https://eksamen.cbs.dk/)
--   **Summer University**: January - on [Summer University at cbs.dk](https://www.cbs.dk/en/study-programmes/summer-university/exams)
-    ​​​​​​​
+-   **Summer University**: January - on [Summer University at cbs.dk](https://www.cbs.dk/en/study-programmes/summer-university/exams)
+    
 
-Under each exam you will find a link to the course descriptions for your courses. The course descriptions include information on i.e. the type of teaching, exam type and aids allowed at the exam. You will also find the learning objectives for your course in the course description.
+Under each exam you will find a link to the course descriptions for your courses. The course descriptions include information on i.e. the type of teaching, exam type and aids allowed at the exam. You will also find the learning objectives for your course in the course description.
 
 __
 
@@ -117,7 +113,7 @@ Until the submission deadline, the exam schedule is tentative. This means that y
 
 For oral exams without a written product, the exam schedule is generally final. However, the exact time may change in case of prior withdrawal of registration, absences, or failure to meet mandatory activity requirements. Therefore, check the exam schedule before your exam and show up in good time according to the rules.
 
-If you are unsure about what a written product covers, you can read about [the different types of oral examinations here].
+If you are unsure about what a written product covers, you can read about [the different types of oral examinations here].
 
 #### Exam dates are determined by CBS
 
@@ -141,14 +137,14 @@ Rules for oral exams
 
 ## Dates for retakes
 
-You can see the exam dates for retakes on the following dates:
+You can see the exam dates for retakes on the following dates:
 
--   **Autumn semester**: 1 September - in the description of the specific exam on [Digital Exam](https://eksamen.cbs.dk/)
--   **Spring semester:** 1 February - in the description of the specific exam on [Digital Exam](https://eksamen.cbs.dk/)
--   **Summer University**: May/June on [Summer University at cbs.dk](https://www.cbs.dk/en/study/international-summer-university/courses-and-exams)
+-   **Autumn semester**: 1 September - in the description of the specific exam on [Digital Exam](https://eksamen.cbs.dk/)
+-   **Spring semester:** 1 February - in the description of the specific exam on [Digital Exam](https://eksamen.cbs.dk/)
+-   **Summer University**: May/June on [Summer University at cbs.dk](https://www.cbs.dk/en/study/international-summer-university/courses-and-exams)
 
 
-​​​​​​​Here you can see how to find the date of your retake on Digital Exam:
+Here you can see how to find the date of your retake on Digital Exam:
 
 <iframe scrolling="no" src="https://cbs.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=20e64380-462a-4dec-842b-ab2600cc4143&amp;autoplay=false&amp;showTitle=false&amp;offerviewer=false" allowfullscreen="allowfullscreen" width="720" height="405" frameborder="0"></iframe>
 
@@ -166,6 +162,6 @@ Check out the procedure for this on the page [Exam Plans - Exams overlap].
 
 ## Questions about exam dates?
 
-If you have questions regarding your exam dates, you are welcome to contact [a student guidance counsellor].
+If you have questions regarding your exam dates, you are welcome to contact [a student guidance counsellor].
 
 [Go to Digital Exam](https://eksamen.cbs.dk/)

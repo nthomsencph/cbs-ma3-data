@@ -1,9 +1,5 @@
 # Your study board
 
-Contact
-
-Your study board
-
 ## Study board and members
 
 All CBS programmes belong to a study board that holds the academic responsibility for your programme. You will probably need to contact your study board at least once over the course of your studies.

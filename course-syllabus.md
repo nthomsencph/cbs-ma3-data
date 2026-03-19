@@ -1,6 +1,4 @@
-# Syllabus for Artificial Intelligence and Machine Learning (LA F26 CINTO4003U)
-
-# Course syllabus
+# Syllabus for Artificial Intelligence and Machine Learning (KAN-CINTO4003U, 2025/2026)
 
 Lecture
 

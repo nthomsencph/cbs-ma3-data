@@ -1,12 +1,8 @@
 # Information retrieval
 
-Help with searching
-
-Information retrieval
-
 ## Plan your search
 
-Often the day-to-day discovery of literature may happen through friends, teachers, a random Google search and so on. But once in a while, you may need to do a more thorough and systematic literature search.
+Often the day-to-day discovery of literature may happen through friends, teachers, a random Google search and so on. But once in a while, you may need to do a more thorough and systematic literature search.
 
 Using the approaches described below may help you be more systematic.
 
@@ -16,16 +12,16 @@ Create a sentence that sounds like a text you would like to read. Then break it 
 
 **Consumer** **attitudes** **toward** **labelling** **of** **genetically modified** **foods**
 
-Consider what synonyms you could also use to describe the same topic, both broader and narrower terms.
+Consider what synonyms you could also use to describe the same topic, both broader and narrower terms.
 
 Get an overview of your words by dividing them into blocks. Have you missed some synonyms or related terms?
 
 ## Combining search terms
 
-Having made the blocks of terms, you can set up a search using the Boolean operators; AND, OR, NOT.
+Having made the blocks of terms, you can set up a search using the Boolean operators; AND, OR, NOT.
 
--   Use OR within the block.
--   Use AND when you want to combine two blocks to get texts containing at least one term from each block.
+-   Use OR within the block.
+-   Use AND when you want to combine two blocks to get texts containing at least one term from each block.
 
 ## Tips for searching in Libsearch
 
@@ -51,26 +47,26 @@ Peer review is the academic world’s quality control. When researchers write an
 ## Keep track of your sources
 
 Create your own database of all the literature you find while searching. This will save you a lot of time trying to relocate articles.
-We suggest using [Mendeley](https://www.cbs.dk/en/library/databases/mendeley)
+We suggest using [Mendeley](https://www.cbs.dk/en/library/databases/mendeley)
 
-[Start using a reference management tool​]
+[Start using a reference management tool]
 
 ## Current courses
 
 <iframe name="calendarframe" id="calendarframe" src="https://api3-eu.libcal.com/embed_mini_calendar.php?mode=month&amp;iid=112&amp;cal_id=4559&amp;l=5&amp;tar=0&amp;h=450&amp;audience=&amp;c=&amp;z=" style="border-width:0" width="300" height="400" frameborder="0" scrolling="yes"></iframe>
 
-## Truncation and phrase searching
+## Truncation and phrase searching
 
-You can use different search features and symbols to twerk your results.
+You can use different search features and symbols to twerk your results.
 
 -   Disguise the word endings with \* or ?
     (example: ethnic\* = ethnic, ethnicity, ethnical, ethnically)
 
--   Mask a letter with ? (example: Behavio?r = behavior, behaviour)
+-   Mask a letter with ? (example: Behavio?r = behavior, behaviour)
 
--   Search for phrases using quotation marks (example: "relationship marketing")
+-   Search for phrases using quotation marks (example: "relationship marketing")
 
--   Proximity operator (within a number of words from each other)
+-   Proximity operator (within a number of words from each other)
     examples: (organi\* n3 strategy) (Organi\* W/3 strategy)
 
 
@@ -94,7 +90,7 @@ Use citation searching to:
 -   find more recent articles on the same or similar subject
 -   help make your literature review more comprehensive
 
-[Try out databases for citation searching such as Scopus or Web of Science](https://www.cbs.dk/en/library/search-library/online-resources#29643-citation-databases)
+[Try out databases for citation searching such as Scopus or Web of Science](https://www.cbs.dk/en/library/search-library/online-resources#29643-citation-databases)
 
 ## Author stalking
 
@@ -106,9 +102,9 @@ Search for the name on Google and find the person's researcher profile on a univ
 
 -   Do a mindmap/brainstorm
 -   Think of synonyms, use encyclopedias, dictionaries ([see list of online resources](https://www.cbs.dk/en/library/search-library/online-resources)), or a thesaurus for inspiration (e.g. in [Business Source Ultimate](https://esc-web.lib.cbs.dk/login?url=https://search.ebscohost.com/login.aspx?authtype=ip%2cuid&groupid=main&profile=ehost&defaultdb=bsu))
--   Do a "quick-and-dirty" search for your topics in article databases. Scan the results for alternative keywords and phrases.
+-   Do a "quick-and-dirty" search for your topics in article databases. Scan the results for alternative keywords and phrases.
 
-## Set up user accounts in your favorite databases
+## Set up user accounts in your favorite databases
 
 Setting up accounts lets you save searches and create "alerts" or "notifications".
 'Alerts' help you to keep up-to-date with the content of new journal issues or notify you when new articles that match your searches are added to a database.

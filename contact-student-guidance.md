@@ -1,9 +1,5 @@
 # Student Guidance
 
-Contact
-
-Student Guidance
-
 In Student Guidance you will meet full-time student guidance counsellors. We are all specialised in student guidance and personal guidance. We focus on your specific needs, and we have high standards for ethics and respect for the individual.
 
 We are here to listen to your problems, both big and small, and we can be a conversation partner and sparring partner when things get critical or you need to explore your options.
@@ -14,7 +10,7 @@ We have the duty of confidentiality, and you are welcome to approach us anonymou
 
 You can get help and guidance with subjects such as:
 
--   Applying for an exemption, including how to make an alternative study plan.
+-   Applying for an exemption, including how to make an alternative study plan.
 
 -   Planning your studies, e.g., choosing electives, internship, exchange, maternity/paternity leave or programme changes.
 
@@ -28,7 +24,7 @@ You can get help and guidance with subjects such as:
 
 -   Problems with your thesis, thesis partner or supervisor.
 
--   Harassment from fellow students or employees at CBS.​
+-   Harassment from fellow students or employees at CBS.
 
 
 ## How to contact your student guidance counsellor
@@ -47,11 +43,11 @@ No question is too big or small, and most importantly, we are always happy to he
 
 #### Opening hours
 
--   Monday: 10:00-15:00​​​​​​​​​​​​
+-   Monday: 10:00-15:00
 
--   Tuesday: 10:00-15:00​​​​​​​​​​​​
+-   Tuesday: 10:00-15:00
 
--   Thursday: 10:00-15:00​​​​​​​​​​​​
+-   Thursday: 10:00-15:00
 
 -   Friday: 10:00-12:30
 
@@ -75,15 +71,15 @@ No question is too big or small, and most importantly, we are always happy to he
 
 [studentguidance@cbs.dk](mailto:studentguidance@cbs.dk)
 
-We will get back to you no later than 7 working days.​
+We will get back to you no later than 7 working days.
 
 #### Meet us in the Walk-in at Solbjerg Plads
 
--   Monday: 10:00-15:00​​​​​​​​​​​​
+-   Monday: 10:00-15:00
 
--   Tuesday: 10:00-15:00​​​​​​​​​​​​
+-   Tuesday: 10:00-15:00
 
--   Thursday: 10:00-15:00​​​​​​​​​​​​
+-   Thursday: 10:00-15:00
 
 -   Friday: 10:00-12:30
 

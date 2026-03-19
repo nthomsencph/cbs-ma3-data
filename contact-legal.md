@@ -1,9 +1,5 @@
 # CBS Legal
 
-Contact
-
-CBS Legal
-
 Legal provides legal advice and administration across CBS.
 
 As a CBS student you are welcome to contact Legal if you have questions about:
@@ -17,7 +13,7 @@ As a CBS student you are welcome to contact Legal if you have questions about:
 
 #### Exam complaints?
 
-If your inquiry is about exam complaints, please read more about [Exam complaints] before you contact us.
+If your inquiry is about exam complaints, please read more about [Exam complaints] before you contact us.
 
 Questions?
 
@@ -31,5 +27,5 @@ Before you make a complaint
 
 ## Contact legal
 
-To contact Legal please send an e-mail to: [legal@cbs.dk](mailto:legal@cbs.dk).
+To contact Legal please send an e-mail to: [legal@cbs.dk](mailto:legal@cbs.dk).
 Remember to send us your phone number, so we can contact you if we have claryfying questions.

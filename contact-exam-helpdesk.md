@@ -1,12 +1,10 @@
 # Exams and timetable Helpdesk
 
-Exams and timetable Helpdesk
-
 If you have questions about your exam, your registrations for exams or classes, e.g. because:
 
 -   you cannot see a course in Canvas
 -   you cannot see an exam in Digital Exam
--   you get ill before/during an exam
+-   you get ill before/during an exam
 -   you need to withdraw from an exam
 -   you submit your exam too late
 
@@ -24,4 +22,4 @@ If you are unsure about how to fil in the helpdesk, you can use our guide:
 
 ## Questions?
 
-If you have questions about the Exam Helpdesk, you are welcome to contact [a student guidance counsellor].
+If you have questions about the Exam Helpdesk, you are welcome to contact [a student guidance counsellor].

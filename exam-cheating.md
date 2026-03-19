@@ -1,9 +1,5 @@
 # Exam cheating
 
-Cheating and exam complaints
-
-Exam cheating
-
 Cheating is when students do not observe the rules for exams or plagiarism.
 
 It is your own responsibility to observe the rules. If you fail to do so, you risk being reported for exam cheating. Cheating will be reported to the president, and the penalties may be very severe.
@@ -27,19 +23,19 @@ Plagiarism is when students misrepresent their own performance and results.
 
 It is easy to commit plagiarism unwittingly and by accident, and you may be found guilty of plagiarism without ever intending to plagiarise.
 
-This is because plagiarism extends beyond deliberately stealing someone else's paper and submitting it in your own name or copying literature without indicating it as a quote. Plagiarism is also when you forget references or when you write about other people's work in your own words without telling your readers whose work your text is based on. It is also cheating if you use shared notes from your study group or slides from lectures without clear references.
+This is because plagiarism extends beyond deliberately stealing someone else's paper and submitting it in your own name or copying literature without indicating it as a quote. Plagiarism is also when you forget references or when you write about other people's work in your own words without telling your readers whose work your text is based on. It is also cheating if you use shared notes from your study group or slides from lectures without clear references.
 
 ## Questions about case processing or sanctions?
 
-If you have questions about the sanctions or the processing of your specific case, please contact [CBS Legal]
+If you have questions about the sanctions or the processing of your specific case, please contact [CBS Legal]
 
 ## Do you want to turn yourself in?
 
-If you have cheated at an exam and want to turn yourself in, you can contact [CBS Legal]​​​​​​​
+If you have cheated at an exam and want to turn yourself in, you can contact [CBS Legal]
 
 ## Good academic behaviour and conduct:
 
--   ​your academic work must be your own
+-   your academic work must be your own
 -   you must always correctly name sources from others' and your own previously used material
 -   you must make it possible to verify that your sources are used and named correctly
 -   you must give the authors of your sources the academic recognition they are entitled to
@@ -49,12 +45,12 @@ If you have cheated at an exam and want to turn yourself in, you can contact [C
 -   getting help with preparation of an individual paper
 -   helping others prepare their individual papers
 -   cooperating on an individual paper
--   using other people's ideas or words, shared notes from a study group or slides from lectures without clear source reference or correct quotation marks
+-   using other people's ideas or words, shared notes from a study group or slides from lectures without clear source reference or correct quotation marks
 -   submitting your own previously assessed, published or annulled work without stating so clearly
--   manipulating quotes,  resulting in a different meaning than the one originally intended by the author
+-   manipulating quotes,  resulting in a different meaning than the one originally intended by the author
 -   falsifying, withholding or manufacturing data, documents or the like
 
-Here you can see a video where CBS Legal explains the rules for exam cheating and academic misconduct:
+Here you can see a video where CBS Legal explains the rules for exam cheating and academic misconduct:
 
 ## Cheating will be discovered
 
@@ -71,8 +67,8 @@ Depending on the degree and extent, one of the following sanctions may be given:
 -   Dismissal from CBS
 -   Written warning
 -   Annulment of a submitted paper/performance
--   Temporary expulsion: your enrolment is cancelled for a period of time
--   Expulsion: your enrolment is cancelled​​
+-   Temporary expulsion: your enrolment is cancelled for a period of time
+-   Expulsion: your enrolment is cancelled
 
 ## Sanctions
 
@@ -80,44 +76,44 @@ There are different types of sanctions for cheating. Exactly which sanction will
 
 Here you can see what you should do if you have been given one of the following sanctions:
 
-​​Sanction:
+Sanction:
 
-​This means:
+This means:
 
-​**Dismissal from an exam at one of CBS’ examination halls:**
+**Dismissal from an exam at one of CBS’ examination halls:**
 
--   ​you must leave the examination hall immediately
+-   you must leave the examination hall immediately
 -   your exam paper will not be assessed
 -   you will have used one exam attempt
 -   you must take the exam at a later time
 
-​**Dismissal from CBS:**
+**Dismissal from CBS:**
 
--   ​you must leave CBS' premises immediately
+-   you must leave CBS' premises immediately
 -   you are not entitled to participate in any activities at CBS
 
-​**Written warning:**
+**Written warning:**
 
--   ​a written warning will be registered on your record in the administrative system
+-   a written warning will be registered on your record in the administrative system
 -   you will be informed of your grade as soon as possible
 
-​**Annulment of a submitted paper/performance:**
+**Annulment of a submitted paper/performance:**
 
--   ​your exam paper will not be assessed
+-   your exam paper will not be assessed
 -   you will have used one exam attempt
 -   if you have already received a grade it will be withdrawn
 -   you must take the exam at a later time
 
-**Temporary expulsion**​**:**
+**Temporary expulsion****:**
 
--   ​your enrolment at CBS will be cancelled for a period of time
+-   your enrolment at CBS will be cancelled for a period of time
 -   you are excluded from participating in any activity at CBS, including any kind of participation in classes and examinations
--   you cannot receive supervision for projects or master's theses
--   ​you cannot be granted credit transfer for exams passed at other universities during the suspension period
+-   you cannot receive supervision for projects or master's theses
+-   you cannot be granted credit transfer for exams passed at other universities during the suspension period
 
-**​Permanent expulsion:**
+**Permanent expulsion:**
 
--   ​your enrolment will be permanently cancelled and you must hand in your student ID
+-   your enrolment will be permanently cancelled and you must hand in your student ID
 
 ## If you are reported for cheating
 
@@ -127,29 +123,29 @@ Below you can read more about the 3 most common exam forms where students are re
 
 
 
-​Report
+Report
 
-​This happens:
+This happens:
 
-​**Written sit-in exa​m**
+**Written sit-in exam**
 
-​The invigilators have reported you e.g. because you have used illegal aids: USB drive, smartphone, notes or other, communicated with other students or acted in an inappropriate manner.
+The invigilators have reported you e.g. because you have used illegal aids: USB drive, smartphone, notes or other, communicated with other students or acted in an inappropriate manner.
 
-​​You must leave the exam hall _OR_
+You must leave the exam hall _OR_
 
 Your paper will be assessed, but your grade will be withheld until there is a formal decision on the matter.
 
-**​Written home assignment**
+**Written home assignment**
 
-​Your examiners have reported you because they have a suspicion that you may have plagiarized.
+Your examiners have reported you because they have a suspicion that you may have plagiarized.
 
 In the report they will describe exactly how and where in your exam paper they suspect you of cheating.
 
-​Your paper will be assessed, but your grade will be withheld until there is a formal decision on the matter.
+Your paper will be assessed, but your grade will be withheld until there is a formal decision on the matter.
 
-​**Oral exam based on a written product**
+**Oral exam based on a written product**
 
-​After the oral exam has been held, the examiners will submit a report in the same way as they would if it were a regular written assignment without an oral exam – see above.
+After the oral exam has been held, the examiners will submit a report in the same way as they would if it were a regular written assignment without an oral exam – see above.
 
 The oral exam will as a rule take place as usual. You will assessed as if you hadn’t been reported for cheating. Your grade will be withheld until there is a formal decision on the matter.
 
@@ -157,7 +153,7 @@ The oral exam will as a rule take place as usual. You will assessed as if you ha
 
 In most cases you will only hear about being reported for cheating when you receive an e-mail from CBS Legal. However, you might be told by the invigilator or the examiner that they are going to submit a report.
 
-Processing time will be up to 14 weeks from you receive the notice from CBS Legal until there is a formal decision on the matter.​
+Processing time will be up to 14 weeks from you receive the notice from CBS Legal until there is a formal decision on the matter.
 
 ## Appealing the decision
 
@@ -165,4 +161,4 @@ You can appeal the decision to the Danish Agency for Science and Higher Educatio
 
 ## Rules and regulations
 
-In the Programme Administrative Rules (SAR) you will find the rules regarding plagiarism, written sit in exams and aids:
+In the Programme Administrative Rules (SAR) you will find the rules regarding plagiarism, written sit in exams and aids:

@@ -1,12 +1,8 @@
 # Written assignments and projects
 
-Assignments and projects
-
-Written assignments and projects
-
 ## What is a written home assignment?
 
-​​​​A written home assignment is an assignment you can write anywhere you have access to a computer. There are several different types of written home assignments:
+A written home assignment is an assignment you can write anywhere you have access to a computer. There are several different types of written home assignments:
 
 __
 
@@ -38,7 +34,7 @@ Use the exam assignment archive for exercise and inspiration in your preparation
 
 ## Requirements and expectations for written home assignments and projects
 
-In the course description you can find requirements and expectations for the content of your assignment. You can also find the learning objectives which you should read thoroughly, as they define what you have to be able to do for the exam.
+In the course description you can find requirements and expectations for the content of your assignment. You can also find the learning objectives which you should read thoroughly, as they define what you have to be able to do for the exam.
 
 By familiarizing yourself with all the requirements, you increase your chances of performing well.
 
@@ -46,37 +42,37 @@ By familiarizing yourself with all the requirements, you increase your chances o
 
 You should also be sure to follow all the rules for good academic conduct, so you avoid any suspicions of cheating.
 
-Read more about how to avoid [Exam cheating].
+Read more about how to avoid [Exam cheating].
 
 #### Follow the rules for handling personal data
 
-If you gain access to or collect personal data, you are responsible for taking care of the data and you must not do anything that could damage the data subject.
+If you gain access to or collect personal data, you are responsible for taking care of the data and you must not do anything that could damage the data subject.
 
 Read more about how to [handle personal data]
 
 #### Formal requirements
 
-You must also meet the formal requirements. Otherwise, you risk having your paper rejected. You can find the formal requirements for each assignment in the course description and the general formal requirements for written assignments here on my.cbs.dk.
+You must also meet the formal requirements. Otherwise, you risk having your paper rejected. You can find the formal requirements for each assignment in the course description and the general formal requirements for written assignments here on my.cbs.dk.
 
-Read more about [Formal requirements​].
+Read more about [Formal requirements].
 
 #### Drawings, notes and charts
 
-If you want to add notes or drawings, e.g. of charts or graphs, to your exam assignment, you need to upload them as attachments along with your assignment. You can use a drawing program, or you can use pen and paper and then just take a photo of the relevant drawings or notes and upload them. Whichever option you choos​e, make sure to do so well before the exam, so you have time to try it out instead of wasting time on it during your exam.
+If you want to add notes or drawings, e.g. of charts or graphs, to your exam assignment, you need to upload them as attachments along with your assignment. You can use a drawing program, or you can use pen and paper and then just take a photo of the relevant drawings or notes and upload them. Whichever option you choose, make sure to do so well before the exam, so you have time to try it out instead of wasting time on it during your exam.
 
-You are always welcome to contact the [IT Su​pport] if you need help.​​
+You are always welcome to contact the [IT Support] if you need help.
 
 #### File format
 
-You should also check which file format you must submit well before the exam.
+You should also check which file format you must submit well before the exam.
 
-Your exam paper must be submitted as a PDF-file unless otherwise informed. Appendixes do not need to be PDF-files.
+Your exam paper must be submitted as a PDF-file unless otherwise informed. Appendixes do not need to be PDF-files.
 
-Before the exam, you should test how to convert files, so you do not waste time on it during your exam.
+Before the exam, you should test how to convert files, so you do not waste time on it during your exam.
 
-You are always welcome to contact the [IT Su​pport] if you need help.​​
+You are always welcome to contact the [IT Support] if you need help.
 
-You can find guides for pdf-files here:
+You can find guides for pdf-files here:
 
 __
 
@@ -136,11 +132,11 @@ Exam cheating
 
 For both written home assignments and for projects, use Digital Exam to see when the exam assignment is published, and when you must submit it.
 
-Written home assignments and projects will be published on ​Digital Exam. You will find the assignment in the exam folder under the course once the exam starts.
+Written home assignments and projects will be published on Digital Exam. You will find the assignment in the exam folder under the course once the exam starts.
 
-**Note:** as soon as you access the assignment, the exam has started. This means that if you do not submit a paper, you will receive the grade No-show and use an exam attempt.
+**Note:** as soon as you access the assignment, the exam has started. This means that if you do not submit a paper, you will receive the grade No-show and use an exam attempt.
 
-## Clarifying questions about the assignment?
+## Clarifying questions about the assignment?
 
 If you have clarifying questions or suspect an error in the exam assignment, you should send an email to your examiner, typically your lecturer.
 
@@ -148,26 +144,26 @@ You will find name and contact information on Digital Exam in the specific exam.
 
 You must ask your questions as soon as possible and no later than:
 
--   Home assignment of 24, 48 or 72 hours: 2 hours after the assignment is published.
--   Home assignment of 2, 3 or 4 hours: the examiner will be available during the entire exam
+-   Home assignment of 24, 48 or 72 hours: 2 hours after the assignment is published.
+-   Home assignment of 2, 3 or 4 hours: the examiner will be available during the entire exam
 
-You will get an answer via Canvas.
+You will get an answer via Canvas.
 
 ## Submitting the assignment
 
 Go to Digital Exam to see when you have to submit your assignment.
 
-You must submit your paper on Digital Exam.
+You must submit your paper on Digital Exam.
 
-Make sure to have plenty of time to prepare your answer for submission. Your exam paper must be submitted as a PDF-file unless otherwise informed. Appendixes do not need to be PDF-files.
+Make sure to have plenty of time to prepare your answer for submission. Your exam paper must be submitted as a PDF-file unless otherwise informed. Appendixes do not need to be PDF-files.
 
-It often takes longer than expected to convert files to another format such as e.g. pdf.
+It often takes longer than expected to convert files to another format such as e.g. pdf.
 
 You should have at least 15 minutes to prepare your answer for submission. Set an alarm to avoid losing track of time.
 
 Make sure to meet the [Formal requirements].
 
-Read more about how to submit your written home assignment or your project under [Submission](/pages/findingyourpage.aspx?r=Pages/Submission.aspx) [](/sites/CoursesAndExams/SitePages/en/Submission.aspx)and in your exam plan on Digital Exam.
+Read more about how to submit your written home assignment or your project under [Submission](/pages/findingyourpage.aspx?r=Pages/Submission.aspx) [](/sites/CoursesAndExams/SitePages/en/Submission.aspx)and in your exam plan on Digital Exam.
 
 ## Oral exam
 
@@ -177,7 +173,7 @@ Read more about [oral exams].
 
 ## How to make a written home assignment
 
-#### Type of assignment
+#### Type of assignment
 
 Before you start preparing for a written assignment you should spend some time reading up on exactly which type of written assignment you have to do - and how much time you have for it. This way, you can make sure your preparation is specifically adapted to that particular exam. You can find a description of the exam form in your course description.
 
@@ -185,28 +181,28 @@ Before you start preparing for a written assignment you should spend some time r
 
 It is a good idea to make sure you have a good and thorough overview of your notes and the curriculum for the course before writing a home assignment. If you know the material well, and are aware of where you can find what, it will be far easier to write the paper. If you know your material and the curriculum, you can start writing as soon as the assignment is released. This will mean that you have more time to finish and polish your paper before the deadline.
 
-Read more about [Reading academic texts] and get more out of [Taking notes].
+Read more about [Reading academic texts] and get more out of [Taking notes].
 
 #### Research question
 
 Especially for assignments where you have to work out the research question yourself, you should think about possible subjects continually throughout the semester, as it takes time to arrive at a good research question.
 
-Read more about how to make a [Research question].
+Read more about how to make a [Research question].
 
-## How to make a project assignment?
+## How to make a project assignment?
 
 A project is a written assignment that is often bigger in length and scope than a “normal” written assignment. A project can be handled in several different ways such as:
 
 -   a topic chosen by you or a predetermined topic, such as a specific case
 -   an individual or group project
 
-Therefore, you should start by familiarizing yourself with the requirements for content and form. You will find these in the description of the exam in the course description. It is also a good idea to ask your lecturer or supervisor about their expectations for the project in relation to structure, choice of theories and methods etc.
+Therefore, you should start by familiarizing yourself with the requirements for content and form. You will find these in the description of the exam in the course description. It is also a good idea to ask your lecturer or supervisor about their expectations for the project in relation to structure, choice of theories and methods etc.
 
 #### Plan the process
 
-You will have longer time to write a project than you would any other type of written assignment. On top of this, you will often start working on the project during your classes.
+You will have longer time to write a project than you would any other type of written assignment. On top of this, you will often start working on the project during your classes.
 
-You should start by making a plan for the entire process. This will help you to keep an overview and to finish on time. It will also make it easier for you to find time for other courses, work and free time.
+You should start by making a plan for the entire process. This will help you to keep an overview and to finish on time. It will also make it easier for you to find time for other courses, work and free time.
 
 Read more about [how to plan the process].
 
@@ -214,7 +210,7 @@ Read more about [how to plan the process].
 
 The best way to prepare for writing a project is primarily to keep up with your classes and your curriculum. The theories you are expected to use in your project will most likely also be the ones your classes focus on. You should therefore make sure to have a firm overview and grasp of the theories used in the course. Many of the lectures could turn out to be directly relevant for your assignment, and you should therefore make sure to keep up with all your classes, so you do not miss any key points.
 
-Read more about how to make the most of your classes on [Get started at university].
+Read more about how to make the most of your classes on [Get started at university].
 
 #### Pre-determined topic
 
@@ -234,23 +230,23 @@ Read more about [Research question].
 
 For some project you may cooperate with a company.
 
-If you have to find a company yourself, you can find companies which are searching for students for certain project in CBS' project and job forum [CareerGate](https://careergate.cbs.dk/projects?locations%5b%5d=6).
+If you have to find a company yourself, you can find companies which are searching for students for certain project in CBS' project and job forum [CareerGate](https://careergate.cbs.dk/projects?locations%5b%5d=6).
 
-When you begin the cooperation, you and the company should discuss your future cooperative relation and mutual expectations, and not only the project itself. CBS has prepared a check list of issues which you can use as inspiration for what you and your case company should discuss - see: _Checklist for cooperative agreements between students and businesses_ in the Programme Administrative Rules (SAR) on the page [Confidentiality and rights](https://sar.cbs.dk/en/bachelor-graduate-programmes/confidentiality-rights-and-public-administration/).
+When you begin the cooperation, you and the company should discuss your future cooperative relation and mutual expectations, and not only the project itself. CBS has prepared a check list of issues which you can use as inspiration for what you and your case company should discuss - see: _Checklist for cooperative agreements between students and businesses_ in the Programme Administrative Rules (SAR) on the page [Confidentiality and rights](https://sar.cbs.dk/en/bachelor-graduate-programmes/confidentiality-rights-and-public-administration/).
 
 For some project you may get access to confidential information in the company. Therefore, the company may want your project to be confidential. Read more about [Confidentiality].
 
 #### Project with a supervisor
 
-For some projects you will have a supervisor. If you have to find one on your own and you want a particular one, you should find him or her early in the process. Supervisors can only supervise a limited number of students.
+For some projects you will have a supervisor. If you have to find one on your own and you want a particular one, you should find him or her early in the process. Supervisors can only supervise a limited number of students.
 
 #### Group assignment
 
 If the project is a group assignment, you naturally have to make sure that you find a group you can work with, unless you are placed in a group by your study programme.
 
-Read more about how to [Get the best out of teamwork].
+Read more about how to [Get the best out of teamwork].
 
-Before you start your group work, we recommend that you balance your expectations and make sure that you are all on the same page concerning fx where and when you meet to work on the project. This way you improve your chances for the group work to run smoothly.
+Before you start your group work, we recommend that you balance your expectations and make sure that you are all on the same page concerning fx where and when you meet to work on the project. This way you improve your chances for the group work to run smoothly.
 
 Find more advice on how to [Solve conflicts in your teamwork].
 
@@ -272,7 +268,7 @@ Plan the process
 
 ## How to plan a process
 
-There are many different approaches to process planning, so use the approach that suits you best. Regardless of how you go about it, it should give you an overview of the entire process and include the various stages and deadlines of process.
+There are many different approaches to process planning, so use the approach that suits you best. Regardless of how you go about it, it should give you an overview of the entire process and include the various stages and deadlines of process.
 
 You can use a Gantt chart, which is often used for the planning and process management of large-scale projects. The chart shows a project timeline divided into separate tasks and start date/end date.
 
@@ -281,7 +277,7 @@ You can use a Gantt chart, which is often used for the planning and process mana
 #### This is how you make a chart:
 
 1.  Set up a table or use Excel.
-2.  In the top row, insert some indication of time - days, weeks or months depending on your project -  one for each column.
+2.  In the top row, insert some indication of time - days, weeks or months depending on your project -  one for each column.
 3.  In the far left column, insert the various tasks or phases that make up your project - one for each row.
 4.  Write your deadlines in the chart: e.g. submission of research question, forms, papers, oral defence, etc.
 5.  Then fill in the chart with start and end date for each task or phase. Start backwards/from the bottom with the final tasks. Ask yourself what needs to happen just before a deadline, and how much time you expect to use on each task. Work your way backwards/upwards. Remember to set aside plenty of time for editing and proofreading before the deadline.
@@ -290,7 +286,7 @@ You can use a Gantt chart, which is often used for the planning and process mana
 
 **Note** that individual tasks in the process do not always replace each other, but sometimes run parallel. E.g. you will need information on subjects, theories, businesses and industries when you are choosing your supervisor and your subject.
 
-Here you can see an example of how a Gantt-chart for a bachelor project may look like:​​​​​​​
+Here you can see an example of how a Gantt-chart for a bachelor project may look like:
 
 Read more on UNIveres
 
@@ -306,9 +302,9 @@ Manage stressful times
 
 Your schedule will only be of help to you if you actually use it and stick to your own deadlines. Take it out now and then, and check if you are up to schedule.
 
-If you are not able to stick to your schedule, you will have to revise it. In these cases it will often be necessary to change what you have been doing so far, e.g. scale down your level of ambition, compromise with something in the paper, or spend more time on your project by cutting down other activities. The most important thing is that you do not continue down the same track that has already delayed you, because you may not be able to recover lost ground.​​​​​​​
+If you are not able to stick to your schedule, you will have to revise it. In these cases it will often be necessary to change what you have been doing so far, e.g. scale down your level of ambition, compromise with something in the paper, or spend more time on your project by cutting down other activities. The most important thing is that you do not continue down the same track that has already delayed you, because you may not be able to recover lost ground.
 
-​​​​​​​
+
 
 ## Plan your day
 
@@ -320,16 +316,16 @@ It is a good idea to take stock of the situation when you start and finish your 
 2.  **When you finish:** Spend a few minutes taking stock of what you have done today and what you will need to do next time you work on the project. Write it down and find it again the next time you get to work. Then you will not waste time trying to find out where you were.
 3.  **Compare** with your overall schedule to see if you are up to speed. This way you minimise the risk of your schedule slipping.
 
-​​​​​​​
+
 
 ## Structure your time
 
-If you find it difficult to structure your time and actually work on your project, you may benefit from making a detailed schedule of your week and fill in all your activities.
+If you find it difficult to structure your time and actually work on your project, you may benefit from making a detailed schedule of your week and fill in all your activities.
 
-By making a schedule of your week with all your activities, it is much more likely that you will find time for everything. It will also make it easier for you to take time off without feeling guilty, which can be very difficult if you feel pressured. And it is important that you do take time off to do other things that energise you. So if you have planned to write on your project from 12:00 to 17:00, stop for the day at 17:00.
+By making a schedule of your week with all your activities, it is much more likely that you will find time for everything. It will also make it easier for you to take time off without feeling guilty, which can be very difficult if you feel pressured. And it is important that you do take time off to do other things that energise you. So if you have planned to write on your project from 12:00 to 17:00, stop for the day at 17:00.
 
 **Remember** to continuously adjust your plan based on your overall schedule and that sometimes prioritisation is necessary.
-​​​​​​​​​​​​​​
+
 
 # Research question
 
@@ -340,19 +336,19 @@ Research question
 It can be difficult to differentiate between topic, problem, problem context and research question, but here are some helpful definitions:
 
 -   **Topic**: The limited academic field you want to work within
--   **Academic problem**: A 'knowledge gap' in your chosen academic field which has not yet been analysed, explained or answered, or something that needs to be re-investigated and re-evaluated
+-   **Academic problem**: A 'knowledge gap' in your chosen academic field which has not yet been analysed, explained or answered, or something that needs to be re-investigated and re-evaluated
 -   **Problem context**: The context of your problem
 -   **Research question**: The academic problem formulated as a specific question or statement
 
 ## From topic to research question
 
-You must first choose a topic, which is the limited academic field you want to work within. Once you have chosen a topic, you must find a problem context within your chosen topic. A problem context typically covers many different academic problems. Here you will choose one academic problem to focus on. The problem must be substantial enough to work with for an entire project, but it should also be delimited enough for you to be able to investigate and answer it. In the research question you must formulate and delimit your problem. It may be a specific question, a statement or claim that you want to investigate, answer or argue for.   ​​​​​​​
+You must first choose a topic, which is the limited academic field you want to work within. Once you have chosen a topic, you must find a problem context within your chosen topic. A problem context typically covers many different academic problems. Here you will choose one academic problem to focus on. The problem must be substantial enough to work with for an entire project, but it should also be delimited enough for you to be able to investigate and answer it. In the research question you must formulate and delimit your problem. It may be a specific question, a statement or claim that you want to investigate, answer or argue for.   
 
-When you move from topic to research question, you move from a general level to a specific level. By continually concretising and narrowing down what you want to focus on within your topic, you will arrive at your research question.
+When you move from topic to research question, you move from a general level to a specific level. By continually concretising and narrowing down what you want to focus on within your topic, you will arrive at your research question.
 
 ## Writing a research question
 
-Once you have found a topic you would like to work with, you must narrow it down to a problem context and a problem. Then you must write a research question. A research question is the question (and any sub-questions), statement or argument you will be answering or arguing for or against in your conclusion. The research question has two main purposes, namely to explain:
+Once you have found a topic you would like to work with, you must narrow it down to a problem context and a problem. Then you must write a research question. A research question is the question (and any sub-questions), statement or argument you will be answering or arguing for or against in your conclusion. The research question has two main purposes, namely to explain:
 
 -   What you want to investigate
 -   Which delimitations and definitions apply
@@ -361,13 +357,13 @@ If the research question is too broad, you cannot use it to focus your work. You
 
 ## Use and continually adjust your research question
 
-Your research question is also your own tool that can help guide your process. Your investigation should focus on answering the question that you have defined and delimited in your research question. Thus you can continuously revisit your research question and check it against the work you are doing at the moment to see if it is relevant for what you are investigating. This applies to every step of the process. This way you can ensure that you are sticking to the topic and will in fact be able to answer the question in your conclusion.
+Your research question is also your own tool that can help guide your process. Your investigation should focus on answering the question that you have defined and delimited in your research question. Thus you can continuously revisit your research question and check it against the work you are doing at the moment to see if it is relevant for what you are investigating. This applies to every step of the process. This way you can ensure that you are sticking to the topic and will in fact be able to answer the question in your conclusion.
 
-Over the course of the process you will learn more about the problem and the topic, and most likely you will have to adjust your research question along the way. The final adjustment should be left until the very end to ensure coherence throughout your paper. Thus your research question is not done until your paper is done.​​​​​​​
+Over the course of the process you will learn more about the problem and the topic, and most likely you will have to adjust your research question along the way. The final adjustment should be left until the very end to ensure coherence throughout your paper. Thus your research question is not done until your paper is done.
 
 ## Questions about your research question?
 
-If you have questions about your research question, please contact your lecturer or supervisor.
+If you have questions about your research question, please contact your lecturer or supervisor.
 
 # The writing process
 
@@ -375,7 +371,7 @@ The writing process
 
 ## Begin writing from the get-go
 
-A project can be a lot of work, and it can be difficult to work out how to go about it. Start your writing process as soon as you have chosen your topic and even before you start on your readings.
+A project can be a lot of work, and it can be difficult to work out how to go about it. Start your writing process as soon as you have chosen your topic and even before you start on your readings.
 
 #### Define your project's limitations
 
@@ -468,7 +464,7 @@ If you get stuck in your writing and find it difficult to move on, do something 
 
 ## Get feedback
 
-Make sure to get feedback on what you write by sparring with others and/or letting others read your texts. If you are writing with someone else, you should of course give each other feedback, but it is also a good idea to get feedback from other people who do not know the topic.
+Make sure to get feedback on what you write by sparring with others and/or letting others read your texts. If you are writing with someone else, you should of course give each other feedback, but it is also a good idea to get feedback from other people who do not know the topic.
 
 #### Use feedback to reach your reader
 
@@ -477,7 +473,7 @@ Readability and reader comprehension are key elements to a good project. By lett
 #### Do not only ask your fellow students
 
 Getting feedback from your fellow students is an obvious opportunity. But it can often be just as valuable to get feedback from outsiders, e.g. a friend or family member, as they can ask the questions that you and your fellow students perhaps take for granted.
-​​​​​​​
+
 
 ## Make revision and proofreading a priority
 
@@ -493,7 +489,7 @@ It takes longer than you would expect to revise and proofread a project. You sho
 
 #### Proper proofreading improves your assessment
 
-Remember that a well-prepared project without errors and omissions will make a much better overall impression, which may be reflected in your assessment in a positive manner.
+Remember that a well-prepared project without errors and omissions will make a much better overall impression, which may be reflected in your assessment in a positive manner.
 
 # Bibliographies and references
 
@@ -503,47 +499,47 @@ Bibliographies and references
 
 Keeping track of all the sources that you use in your written assignments – especially in larger projects - can be pretty hard.
 
-It is, however, important that you make sure to manage your source references properly and that you include a precise regime of citations and references. If you do not, you will find yourself at risk of being reported for plagiarism, something that may have serious consequences for your degree.
+It is, however, important that you make sure to manage your source references properly and that you include a precise regime of citations and references. If you do not, you will find yourself at risk of being reported for plagiarism, something that may have serious consequences for your degree.
 
 ## Avoid plagiarism
 
-Read more about how to avoid plagiarism under [Exam cheating].
+Read more about how to avoid plagiarism under [Exam cheating].
 
 ## How to create source references
 
 You must always name your sources, when you use other people's ideas, work and quotations.
 
-There are many different reference styles. Ask your study programme, lecturer or supervisor which style they recommend you use.
+There are many different reference styles. Ask your study programme, lecturer or supervisor which style they recommend you use.
 
 
 
--   You can read more about the different reference styles in the CBS guide to academic integrity: [Reference Styles​](https://libguides.cbs.dk/c.php?g=684990&p=4893176) ​
--   You can also read about how to make correct citations and paraphrases in the CBS guide to academic integrity: [Quotations & Paraphrases​](https://libguides.cbs.dk/c.php?g=684990&p=4893170)
+-   You can read more about the different reference styles in the CBS guide to academic integrity: [Reference Styles](https://libguides.cbs.dk/c.php?g=684990&p=4893176) 
+-   You can also read about how to make correct citations and paraphrases in the CBS guide to academic integrity: [Quotations & Paraphrases](https://libguides.cbs.dk/c.php?g=684990&p=4893170)
 
 ## Why use a reference management tool?
 
-A reference management tool is used to collect and save references to articles, books, websites, and other sources. It allows you to find references and push them to your personal database while conducting your research. In turn, you can create correct (e.g. APA-style) in-text citations and perfect bibliographies based on the sources in your database.
+A reference management tool is used to collect and save references to articles, books, websites, and other sources. It allows you to find references and push them to your personal database while conducting your research. In turn, you can create correct (e.g. APA-style) in-text citations and perfect bibliographies based on the sources in your database.
 
-Using the tool will save you time and ensure that your papers contain complete and correct in-text citations and bibliographies only.
+Using the tool will save you time and ensure that your papers contain complete and correct in-text citations and bibliographies only.
 
-As a CBS student, you have free access to multiple reference management tools. You can also participate in a course on how to use reference management tools, which takes place at the CBS library. ​​​​​​​
+As a CBS student, you have free access to multiple reference management tools. You can also participate in a course on how to use reference management tools, which takes place at the CBS library. 
 
 ## What tool should you choose?
 
 There are several free reference management tools available.
 
-As a CBS student, you have access to the subscription version of Mendeley, which offers enhanced functions that the free version does not.
+As a CBS student, you have access to the subscription version of Mendeley, which offers enhanced functions that the free version does not.
 
 You can get access to the subscription version by signing up with your CBS e-mail (you do not have to use the same password that you use for CBS' other platforms.
 
-Mendeley works with MS Word. You can easily work with someone else on an assignment, no matter if they use a PC or Mac.
+Mendeley works with MS Word. You can easily work with someone else on an assignment, no matter if they use a PC or Mac.
 
 More than 7000 different citation styles are available in Mendeley. They cover the commonly used styles such as APA, Chicago, MLA, and Harvard.
 
 
 ## Mendeley courses
 
-Courses will cover collection and organisation of references. Demonstration of MS Word integration, reference styles, e.g. APA, as well as generation of perfect bibliographies for your papers. There are exercises throughout.
+Courses will cover collection and organisation of references. Demonstration of MS Word integration, reference styles, e.g. APA, as well as generation of perfect bibliographies for your papers. There are exercises throughout.
 
 [See upcoming Mendeley courses](https://cbs.libcal.com/calendar/courses?t=d&q=mendeley)
 
@@ -559,16 +555,16 @@ If you use another programme for writing than MS Word, here's a list of alternat
 
 #### GoogleDocs
 
--   [Zotero](https://www.zotero.org/) (free, but does not work well with Google Docs)
+-   [Zotero](https://www.zotero.org/) (free, but does not work well with Google Docs)
 
 #### LibreOffice / OpenOffice
 
--   [Endnote](https://esc-web.lib.cbs.dk/login?qurl=https://www.webofscience.com/wos/woscc/smart-search) (free basic account from the database [Web of Science](https://esc-web.lib.cbs.dk/login?qurl=https://www.webofscience.com/wos/woscc/smart-search))
--   [Zotero](https://www.zotero.org/) (free)
+-   [Endnote](https://esc-web.lib.cbs.dk/login?qurl=https://www.webofscience.com/wos/woscc/smart-search) (free basic account from the database [Web of Science](https://esc-web.lib.cbs.dk/login?qurl=https://www.webofscience.com/wos/woscc/smart-search))
+-   [Zotero](https://www.zotero.org/) (free)
 
 #### Pages
 
--   [Endnote](http://www.cbs.dk/bibliotek/databaser/web-of-science) (free basic account from the database [Web of Science](http://www.cbs.dk/bibliotek/databaser/web-of-science))
+-   [Endnote](http://www.cbs.dk/bibliotek/databaser/web-of-science) (free basic account from the database [Web of Science](http://www.cbs.dk/bibliotek/databaser/web-of-science))
 
 ## Shortcut
 
@@ -667,19 +663,19 @@ Typical types of appendices could be:
 
 Appendices are not directly included in the assessment, and you cannot expect that the examiner will read all your appendices. Therefore, you should make sure to include everything you want to have assessed in the actual paper.
 
-You examiner and other readers will typically only read your appendices if they need to check that you have used or referred to your sources correctly or if they want to into details with certain parts of your project. In that way, the appendices can affect the assessment if they are missing. If you e.g. refer to a source, which is not available and you do not include it as an appendix, it is an error that may have a negative effect on the assessment.
+You examiner and other readers will typically only read your appendices if they need to check that you have used or referred to your sources correctly or if they want to into details with certain parts of your project. In that way, the appendices can affect the assessment if they are missing. If you e.g. refer to a source, which is not available and you do not include it as an appendix, it is an error that may have a negative effect on the assessment.
 
-## How to submit appendices
+## How to submit appendices
 
 If you have any appendices for your paper you can choose to submit them separately or attach them at the end of the paper, depending on how long the paper is.
 
-Appendices are not included in the final assessment, and therefore there are no formal requirements for them. They give the examiners and other readers the opportunity to dig deeper into specific parts of your paper. So, make sure to include everything in the paper itself, that you want to be included in the assessment.
+Appendices are not included in the final assessment, and therefore there are no formal requirements for them. They give the examiners and other readers the opportunity to dig deeper into specific parts of your paper. So, make sure to include everything in the paper itself, that you want to be included in the assessment.
 
 #### Language in appendices
 
 There are no rules about which language appendices should be in. You should, however, always include the original material, as any translation will always contain an element of interpretation. If the original material is in a language one or more of the examiners do not understand, you can enclose a translation as well. If you are in doubt about the language in your appendices, we recommend that you speak with your supervisor or examiner, and agree on whether or not you should include a translation.
 
-## How to submit interviews
+## How to submit interviews
 
 There are no formal rules regarding transcription of qualitative interviews which are used as empirical data in a paper or a thesis. This can be explained by the fact that interviews normally are enclosed as appendices.
 
@@ -700,14 +696,14 @@ When you apply coding, you make it easier for yourself to see the broader perspe
 The advantage of transcribing your interviews is that you gain a detailed insight into the content of your interviews, which makes it easier to conduct a comprehensive analysis. Therefore, you will regain some of the time you spend on transcribing later in your research process.
 
 
-There are several types of software that can help you with transcribing and the library can help you with how you use it. [Read more and find courses on data collection and analysis].
+There are several types of software that can help you with transcribing and the library can help you with how you use it. [Read more and find courses on data collection and analysis].
 
 
 #### Audio files
 
 If you conduct explorative interviews or if the interviews play an insignificant part of the research, it may be enough just to enclose the audio recording and a written summary in an appendix. Are you in doubt, ask your supervisor what he/she prefers.
 
-## ​​​​​​​GDPR and data protection in relation to interviews
+## GDPR and data protection in relation to interviews
 
 When interviewing people as a way to collect data for your assignment, you have to make sure to comply with the rules of the General Data Protection Regulation (GDPR).
 
@@ -737,7 +733,7 @@ Personal Data and GDPR
 
 ## About GDPR
 
-The processing of personal data is regulated by the General Data Protection Regulation, GDPR. You can find more information about GDPR on the Danish Data Protection Agency's website [www.datatils​ynet.dk](http://www.datatilsynet.dk/) (in Danish).
+The processing of personal data is regulated by the General Data Protection Regulation, GDPR. You can find more information about GDPR on the Danish Data Protection Agency's website [www.datatilsynet.dk](http://www.datatilsynet.dk/) (in Danish).
 
 
 
@@ -751,14 +747,14 @@ Personal data can be categorized as four different types:
 
 __
 
-General person​​al data (non-sensitive personal data)
+General personal data (non-sensitive personal data)
 
-Personal data that does not fall under the category of sensitive personal data can be referred to as general personal data. General personal data may include:
+Personal data that does not fall under the category of sensitive personal data can be referred to as general personal data. General personal data may include:
 
 -   personal identification details such as name, address and date of birth
 -   information regarding personal finances, tax-related matters, debts,
--   significant social problems and other purely private matters,
--   work-related circumstances, position of employment, date of employment, work phone, sick days, qualifications, applications, CV
+-   significant social problems and other purely private matters,
+-   work-related circumstances, position of employment, date of employment, work phone, sick days, qualifications, applications, CV
 -   family circumstances, residence, car
 
 General personal data may have the character of confidential information, which must be taken into account in various contexts, such as:
@@ -793,7 +789,7 @@ Information about criminal offences is considered general personal data under th
 
 __
 
-Confidential information​
+Confidential information
 
 Confidential information is not a category explicitly mentioned in the GDPR. This information is regulated by other laws, but may be of importance in the way the GDPR is applied.
 
@@ -813,26 +809,26 @@ Confidential information may e.g. be information regarding
 -   Reason for expulsion
 -   Disciplinary cases
 -   Minutes of personal conversations if they contain confidential information
--   Secret address​
+-   Secret address
 
 
 
-## ​Questions?
+## Questions?
 
-If you have questions about handling personal data, you are welcome to contact [CBS Legal]
+If you have questions about handling personal data, you are welcome to contact [CBS Legal]
 
 #### Personal data may be:
 
--   Name, e-mail, username on social media etc. (general personal data)​
+-   Name, e-mail, username on social media etc. (general personal data)
 -   Education, e-mail, username on social media etc. (general personal data)
 -   Racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, data concerning health, sex life and sexual orientation (sensitive personal data)
 
 #### You may gain access to personal data from:
 
--   ​Public or private registries, i.e. RKI (Danish credit reporting bureau), donor registries, etc.
+-   Public or private registries, i.e. RKI (Danish credit reporting bureau), donor registries, etc.
 -   Interviews
 -   Questionnaires
--   Other ways to collect information about people​​
+-   Other ways to collect information about people
 
 ## How to comply with the rules for processing personal data
 
@@ -842,7 +838,7 @@ If you collect personal data from e.g. test subjects or via a questionnaire to b
 2.  complying with the rights of the data subjects
 3.  storing the collected data safely
 4.  describing the purpose of the data collection in a record
-    ​​​​​​​
+    
 
 Below you can read more about what you need to do to comply with the requirements and find relevant templates.
 
@@ -869,7 +865,7 @@ The data subjects have a number of rights in relation to the processing of their
 
 Everyone you collect data from has the right to withdraw their consent, which means that you are not allowed to continue with the processing of their data.
 
-You can find more information about the rights of the data subjects in this [Guide from the Dani​sh Data Protection Agency](/:b:/r/sites/CoursesAndExams/Delte%20dokumenter/Opgaver%20+%20projekter/Handling%20personal%20data%20Datatilsynet%20registreredes-rettigheder%20Da.pdf?csf=1&web=1&e=ysu8iD) (in Danish)​
+You can find more information about the rights of the data subjects in this [Guide from the Danish Data Protection Agency](/:b:/r/sites/CoursesAndExams/Delte%20dokumenter/Opgaver%20+%20projekter/Handling%20personal%20data%20Datatilsynet%20registreredes-rettigheder%20Da.pdf?csf=1&web=1&e=ysu8iD) (in Danish)
 
 __
 
@@ -897,7 +893,7 @@ Use [Record of processing activities](/:b:/r/sites/CoursesAndExams/Delte%20dokum
 
 If you collaborate with one or more students on a master thesis or an assignment and you collect and process personal data, you must conclude an agreement on joint data responsibility. The agreement on joint data responsibility means that all group members will be responsible for the personal data collected in connection with the assignment.
 
-[Agreement concerning shared data responsibility](/:b:/r/sites/CoursesAndExams/Delte%20dokumenter/Opgaver%20+%20projekter/Handling%20personal%20data%20Bilag%20D%20-%20Fælles%20dataansvar%20UK.pdf)
+[Agreement concerning shared data responsibility](/:b:/r/sites/CoursesAndExams/Delte%20dokumenter/Opgaver%20+%20projekter/Handling%20personal%20data%20Bilag%20D%20-%20Fælles%20dataansvar%20UK.pdf)
 
 ## Third-party data
 
@@ -911,12 +907,12 @@ You can access data if you have a valid consent from the data subjects.
 
 Within a certain framework you are allowed to process personal data that you receive from a researcher to be used in your assignment. A researcher can only legally give you access to personal data from a research project under one of two circumstances:
 
-#### 1. Anonymity
+#### 1. Anonymity
 
 If the personal data is anonymous. Personal data is considered anonymous when the researcher has deleted the key that connects the individual person with the specific information. Usually, this does not happen until 5 years after the research project is completed.
-​​​​​​​
 
-#### 2. Consent
+
+#### 2. Consent
 
 If the researcher has obtained consent from the participants of the project to use the personal data in connection with teaching. In this case, you must enter into an agreement on the disclosure of personal data with the person responsible for the project.
 
@@ -924,7 +920,7 @@ If the researcher has obtained consent from the participants of the project to u
 
 #### If you write your master thesis in collaboration with a research project
 
-You can also collaborate with a researcher on a research project in connection with the preparation of your master thesis. There may be different areas of collaboration, but regardless of which areas you and the researcher agree on, you must enter into a collaboration agreement. You can find a template agreement for the collaboration here:​​​​​​​
+You can also collaborate with a researcher on a research project in connection with the preparation of your master thesis. There may be different areas of collaboration, but regardless of which areas you and the researcher agree on, you must enter into a collaboration agreement. You can find a template agreement for the collaboration here:
 
 [Master thesis and research collaboration agreement](/:b:/r/sites/CoursesAndExams/Delte%20dokumenter/Opgaver%20+%20projekter/Handling%20personal%20data%20Bilag%20F%20-%20Master’s%20thesis%20and%20research%20collaboration%20agreement%20.pdf)
 
@@ -936,7 +932,7 @@ If your collaboration should include assignments where you process personal data
 
 If, as a student, you are associated with a research project to perform tasks for the researcher (in connection with an unpaid internship), you must enter into a data processing agreement and/or a collaboration and confidentiality agreement with the department, where the researcher is employed
 
-#### ​​​​​​Data processing agreement in connection with a research project
+#### Data processing agreement in connection with a research project
 
 When processing personal data following the instructions from the project manager for the project, you must use the "Data processing agreement in connection with a research project."
 
@@ -946,7 +942,7 @@ If you are provided with personal data that you are responsible for storing, you
 
 #### Collaboration and confidentiality agreement in connection with a research project
 
-When you access personal data in connection with your work on the research project, you must use the "Collaboration and confidentiality agreement.​"
+When you access personal data in connection with your work on the research project, you must use the "Collaboration and confidentiality agreement."
 
 The collaboration and confidentiality agreement describes your access to personal data and obliges you to treat the data confidentially.
 
@@ -966,11 +962,11 @@ Assignments and projects
 
 Submission
 
-It is your responsibility to ensure that your paper meets both the academic and formal requirements. Make sure to always check:
+It is your responsibility to ensure that your paper meets both the academic and formal requirements. Make sure to always check:
 
--   **Your exam on Digital Exam**: here you can see where, what and how to submit
--   **The course description**: here you will find the academic requirements for your exam paper
--   [Formal requirements]: here you will find requirements for frontpages, standard pages and number of pages
+-   **Your exam on Digital Exam**: here you can see where, what and how to submit
+-   **The course description**: here you will find the academic requirements for your exam paper
+-   [Formal requirements]: here you will find requirements for frontpages, standard pages and number of pages
 
 ## Meet the submission deadline
 
@@ -1030,7 +1026,7 @@ You sign the declaration of authorship on Digital Exam by checking the field **\
 
 If you want CBS to treat your paper confidentially, you must:
 
-1.  indicate that the paper is confidential when you submit the paper to Digital Exam
+1.  indicate that the paper is confidential when you submit the paper to Digital Exam
 2.  indicate that the paper is confidential on the front page
 
 You do NOT have to fill in a confidentiality contract. Confidentiality contracts are only used as agreements between you and a business.
@@ -1045,25 +1041,25 @@ Read more about [Appendices and transcription]
 
 ## Handling personal data
 
-If you gain access to or collect personal data, you are responsible for taking care of the data and you must not do anything that could damage the data subject.
+If you gain access to or collect personal data, you are responsible for taking care of the data and you must not do anything that could damage the data subject.
 
-Read more about how to [handle personal data]
+Read more about how to [handle personal data]
 
 ## Submitting group papers
 
 When writing a group paper, you will only have to submit one set of papers unless the course description states otherwise. The same applies when you submit digitally via Digital Exam. The student who uploads the paper must digitally sign the declaration of authorship on behalf of the entire group. Read more about the Declaration of authorship and formal requirements below.
 
-Have a look at the guiding page for hand-in at [Digital Exam.]
+Have a look at the guiding page for hand-in at [Digital Exam.]
 
 _Please note – you will have to create your group before you submit your hand-in. All group members need to log-in to Digital Exam and accept the group invitation to become part of the group. Only one member of a group should submit the hand-in, but all group members will have access to it._
 
-Read more about the ​​[formal requirements] for submitting papers.
+Read more about the [formal requirements] for submitting papers.
 
 #### Individualisation of group papers
 
-All group papers **without** an oral defence **must** be individualised.
+All group papers **without** an oral defence **must** be individualised.
 
-This means that it must be clearly stated which students are responsible for which parts of the paper so that your performances can be assessed individually.
+This means that it must be clearly stated which students are responsible for which parts of the paper so that your performances can be assessed individually.
 
 You must use your [**student number**] to identify yourself, and not your names, so that CBS can protect your personal data in the best way possible.
 
@@ -1071,7 +1067,7 @@ It must be stated both in the table of contents and in the introductions of each
 
 Individualisation must never be stated at the level of lines or sentences, but must be stated for larger parts of text.
 
-Some parts of the paper can be written together such as the introduction, the research question, methodology, and the conclusion including subconclusions. ​
+Some parts of the paper can be written together such as the introduction, the research question, methodology, and the conclusion including subconclusions. 
 
 Group papers **with** an oral defence **should not** be individualised.
 
@@ -1081,9 +1077,9 @@ Assignments and projects
 
 Formal requirements
 
-The formal requirements apply to all written home assignment at CBS including projects, bachelor projects and master theses. It is your responsibility to ensure that your paper meets the formal requirements. Here you can read more about the formal requirements.​
+The formal requirements apply to all written home assignment at CBS including projects, bachelor projects and master theses. It is your responsibility to ensure that your paper meets the formal requirements. Here you can read more about the formal requirements.
 
-For written sit-in exams additional rules and requirements also apply. Read more about [Written sit-in exams].
+For written sit-in exams additional rules and requirements also apply. Read more about [Written sit-in exams].
 
 The bachelor project and the master's thesis have special requirements:
 
@@ -1093,41 +1089,41 @@ The bachelor project and the master's thesis have special requirements:
 
 ## Standard page
 
-You must meet the following requirements for standard pages:​
+You must meet the following requirements for standard pages:
 
 -   The pages may comprise no more than 2,275 characters incl. spaces on average.
 -   **Margin:** At least 3 cm at the top and bottom, and at least 2 cm left and right.
--   **Font size:** At least 11 points. Footnotes can be smaller but must be readable
+-   **Font size:** At least 11 points. Footnotes can be smaller but must be readable
 -   **Tables, diagrams, illustrations:** etc. are not included in the number of characters, but insertion of such elements does not justify exceeding the specified maximum number of pages. This means that any form of illustration counts for the amount of text that it takes up space for i.e. a table covering 3/4 of a page counts for 3/4 of a page no matter how many characters it contains.
 -   **Headlines**: Must be distinct and differ graphically from the body text.
 -   **Page numbers:** Pages must be numbered, and the table of contents must present where the various main sections begin.
 
 ## Avoid plagiarism
 
--   Read more about how to handle your references under Library> [Bibliographies and references]
+-   Read more about how to handle your references under Library> [Bibliographies and references]
 -   Watch videos and find more information on plagiarism at [stopplagiat.nu](http://en.stopplagiat.nu/)
 
 [CBS' guide to academic integrity](https://libguides.cbs.dk/c.php?g=684990&fbclid=IwAR362DITTcvB4LRpmQahJnVmQsT6ASo3951ybUdRVk1aRxeqzZgw0TN0WZA)
 
-## ​Example:
+## Example:
 
-If requirements dictate that a paper should be no longer than 5 pages, then it must fit on 5 physical pages, whether or not these 5 pages comprise fewer characters on average. You are not allowed to exceed the number of pages or the number of characters.  If you use a lot of charts, figures and illustrations, you may not be able to fit 2275 characters on a page. Therefore you must consider whether the illustration is important; i.e. whether it says more than the number of characters it takes up space for, or whether the illustration could be included as an appendix or left out altogether.
+If requirements dictate that a paper should be no longer than 5 pages, then it must fit on 5 physical pages, whether or not these 5 pages comprise fewer characters on average. You are not allowed to exceed the number of pages or the number of characters.  If you use a lot of charts, figures and illustrations, you may not be able to fit 2275 characters on a page. Therefore you must consider whether the illustration is important; i.e. whether it says more than the number of characters it takes up space for, or whether the illustration could be included as an appendix or left out altogether.
 
-## ​​Number of pages
+## Number of pages
 
-All written home assignments have extent requirements that you must meet. You can find the requirements for each paper in the course description under exam. If your paper does not meet requirements, it may be rejected. If your paper is rejected, it will be registered as one exam attempt.
+All written home assignments have extent requirements that you must meet. You can find the requirements for each paper in the course description under exam. If your paper does not meet requirements, it may be rejected. If your paper is rejected, it will be registered as one exam attempt.
 
 All papers must include information about the extent of the paper on the front page – read more under _Front page_ below.
 
 #### When is a paper too long?
 
-A paper is too long if it exceeds the number of pages, does not comply with the requirements for margin and font size, or if on average the pages has more than 2275 characters incl. spaces per page.
+A paper is too long if it exceeds the number of pages, does not comply with the requirements for margin and font size, or if on average the pages has more than 2275 characters incl. spaces per page.
 
 
 
-#### What counts?
+#### What counts?
 
-All pieces of text, paragraphs and pages that are considered in the assessment count in the total number of characters and total number of pages. This includes:
+All pieces of text, paragraphs and pages that are considered in the assessment count in the total number of characters and total number of pages. This includes:
 
 -   abstract
 -   introduction, delimitation and research question
@@ -1140,7 +1136,7 @@ Pages that count in the total number of pages but not in the total number of cha
 
 -   table of contents
 
-Pages that do not count in the total number of pages nor in the total number of characters:
+Pages that do not count in the total number of pages nor in the total number of characters:
 
 -   front page
 -   [bibliography and list of sources]
@@ -1148,15 +1144,15 @@ Pages that do not count in the total number of pages nor in the total number o
 
 ## Front page
 
-The front page must clearly state:​​​
+The front page must clearly state:
 
 -   The paper's title (and subtitle, if any)
 -   The type of paper (e.g. exam paper for a specific course)
--   ​The name(s) of the student(s) must be included on ​written papers with an oral defence​, but not on written papers without an oral defence, as they are made anonymous through Digital Exam
--   [Student number]​
+-   The name(s) of the student(s) must be included on written papers with an oral defence, but not on written papers without an oral defence, as they are made anonymous through Digital Exam
+-   [Student number]
 -   The name of the programme
 -   Date of submission
 -   The name of supervisor, if any
 -   Group number (if relevant)
--   ​Number of characters and number of pages
+-   Number of characters and number of pages
 -   If the paper is confidential

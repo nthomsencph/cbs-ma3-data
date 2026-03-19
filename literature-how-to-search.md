@@ -1,10 +1,7 @@
-# How to find literature review articles | CBS - Copenhagen Business School
+# How to find literature review articles
 
-Article
 
-# How to find lit­er­at­ure re­view art­icles
-
-Start­ing on a brand-new top­ic can feel over­whelm­ing. You know you need strong aca­dem­ic art­icles and books, but it is dif­fi­cult to de­cide where to be­gin, which au­thors mat­ter and which texts are worth your time.
+Starting on a brand-new topic can feel overwhelming. You know you need strong academic articles and books, but it is difficult to decide where to begin, which authors matter and which texts are worth your time.
 
 Learning
 
@@ -70,11 +67,8 @@ This makes your work both easier and more focused setting a clear direction from
 [See how the search works in Web of Science?](https://esc-web.lib.cbs.dk/login?url=https://www.webofscience.com/wos/woscc/summary/18d8db13-76bb-4983-8645-81234f2baab1-6f89ba8d/relevance/1)
 [Do you want help with your keywords?](/en/library/search-library/how-search-using-keywords)
 
-## Writ­ing a lit­er­at­ure re­view?
 
-If you are writ­ing a lit­er­at­ure re­view, the lib­rary has sev­er­al re­sources that can help you get star­ted:
 
-### Books on how to write lit­er­at­ure re­views
 
 If you are considering writing a literature review yourself, or if your assignment requires a review of the existing literature, the library offers several texts that can help you get started.
 
@@ -84,7 +78,7 @@ Here are a few books on how to write literature reviews:
 
 -   [Reardon, D. F. (2006). The literature review. In Reardon, D. F. (ed.), _Doing your undergraduate project_. SAGE Publications. (Vælg kapitlet “The literature review”)](https://esc-web.lib.cbs.dk/login?url=http://dx.doi.org/10.4135/9781849209076)
 
-### Sup­port for search­ing
+### Support for searching
 
 Visit the library and talk to a librarian. We can help you find inspiration for your literature searches.
 

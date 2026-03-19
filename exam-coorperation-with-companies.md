@@ -1,9 +1,5 @@
 # Cooperation with companies
 
-Assignments and projects
-
-Cooperation with companies
-
 ## Finding a company
 
 Finding a company or an organisation to cooperate with can take time. You should therefore start your search well in advance, before you really need the data.
@@ -15,12 +11,12 @@ You can find a company in many ways e.g.:
 -   **Start by searching your network:** And networks you know through e.g. friends or family. If you know someone, who knows someone, you will probably save a lot of time.
 -   **Contact multiple companies:** Even if you will only need one company, you should consider contacting multiple as you cannot expect a positive response from the first company you contact.
 -   **Make a broad search for possible companies**: The most well known organisations receive many inquiries from students, and they cannot agree to everyone.
--   **Choose your own workplace:** It may be easy for you to get access to data in a company you already know and which knows you. However, it may be difficult take a critical approach and ask silly questions about the company's practice because your co-workers and managers already know you as an employee.
--   **Use** [**CBS' project and jobsite – CareerGate**](https://cbscareergate.jobteaser.com/en%20)**:** In CareerGate, you can find companies and organisations, which are searching for students for certain projects. However, you should thoroughly consider if the project is both interesting and relevant for you and your academic field.
+-   **Choose your own workplace:** It may be easy for you to get access to data in a company you already know and which knows you. However, it may be difficult take a critical approach and ask silly questions about the company's practice because your co-workers and managers already know you as an employee.
+-   **Use** [**CBS' project and jobsite – CareerGate**](https://cbscareergate.jobteaser.com/en%20)**:** In CareerGate, you can find companies and organisations, which are searching for students for certain projects. However, you should thoroughly consider if the project is both interesting and relevant for you and your academic field.
 
 
 
-## Contacting the company
+## Contacting the company
 
 Before you contact a company, you should do some research. Then it will be easier for you to aim your inquiry at the specific company and to convince them to choose you and your project.
 
@@ -39,7 +35,7 @@ It will differ how much experience the individual company has with being a case 
 
 When you begin the cooperation, it is therefore important that you and the company discuss your future cooperative relation and mutual expectations, and not only the project itself.
 
-You should be especially aware of the following:​​​​​​​​​​​​​​
+You should be especially aware of the following:
 
 More information
 
@@ -47,7 +43,7 @@ __
 
 CBS CareerGate
 
-Find companies and organisations searching for students for certain projects. ​​​​​​​​​​​​​​
+Find companies and organisations searching for students for certain projects. 
 
 ](https://cbscareergate.jobteaser.com/en)
 
@@ -61,23 +57,23 @@ __
 
 Handling personal data
 
-Read more about what personal data is and how to to comply with the rules for personal data
+Read more about what personal data is and how to to comply with the rules for personal data
 
 __
 
 Guide for companies when doing an academic internship
 
-A flyer, which you can give to the company when arranging the frame of your cooperation
+A flyer, which you can give to the company when arranging the frame of your cooperation
 
 ## Use CBS' checklist
 
 CBS has prepared a checklist of issues that you and the company should agree on before you start your cooperation.
 
-By using the checklist you reduce the risk of problems arising later on which may make it difficult for you to meet CBS' requirements for your project.​​​​​​​
+By using the checklist you reduce the risk of problems arising later on which may make it difficult for you to meet CBS' requirements for your project.
 
 ## Confidentiality
 
-If you need access to business sensitive and confidential data, the company will often want your assignment, project or thesis to be treated with confidentiality.
+If you need access to business sensitive and confidential data, the company will often want your assignment, project or thesis to be treated with confidentiality.
 
 Companies will often demand that you sign an agreement on confidentiality. Before you start the cooperation, you should therefore ensure that you and the company have signed an agreement that both parties can keep.
 
@@ -85,11 +81,11 @@ If you do not make sure that you have a clear agreement, you risk that the compa
 
 
 
-**Please note**: if your thesis is delayed because you have not entered into an agreement on confidentiality well in advance, you must still meet the submission deadline for your thesis.​​​​​​​
+**Please note**: if your thesis is delayed because you have not entered into an agreement on confidentiality well in advance, you must still meet the submission deadline for your thesis.
 
 ## Handling personal data
 
-If you gain access to or if you collect personal data in connection with your Master Thesis or an assignment, you are responsible for taking care of the data and must not do anything that could damage the data subject.  Read more about what personal data is and how to to comply with the rules for processing personal data below.
+If you gain access to or if you collect personal data in connection with your Master Thesis or an assignment, you are responsible for taking care of the data and must not do anything that could damage the data subject.  Read more about what personal data is and how to to comply with the rules for processing personal data below.
 
 # Confidentiality
 
@@ -140,9 +136,9 @@ CBS' templates has been prepared by CBS' legal advisors, and they take into acco
 
 As CBS' templates are an agreement you enter into with a company, you should review your agreement thoroughly and actively consider whether you can accept and adhere to the agreement's requirements. Both you and the company must sign the contract.
 
-You can find CBS' templates for Confidentiality Agreements below:​​​​​​​
+You can find CBS' templates for Confidentiality Agreements below:
 
-## Signature from your supervisor
+## Signature from your supervisor
 
 If a company demands it, your supervisor at CBS can declare that he or she is informed about your confidentiality agreement with a company by signing CBS' template for a confidentiality agreement. A supervisor from CBS may not sign a confidentiality agreement prepared by a company.
 
@@ -160,7 +156,7 @@ Here you can find a guide on how to fill out the Confidentiality Agreement:
 
 ## Read more about confidentiality and find the check list and CBS' template
 
-Read more about rules on confidentiality in the [Programme Administrative Rules (SAR), on the page Confidentiality and rules.](https://sar.cbs.dk/en/) Amongst other things you will find:
+Read more about rules on confidentiality in the [Programme Administrative Rules (SAR), on the page Confidentiality and rules.](https://sar.cbs.dk/en/) Amongst other things you will find:
 
 -   Rules for entering into agreements on confidentiality
 -   Checklist for collaborative agreements between students and businesses
@@ -177,8 +173,8 @@ In particular, you should be aware of the following terms:
 -   **Transfer of rights to the company from the student**: consider which rights you give the company to your paper, your results and products you made, if any, and if you can accept it.
 -   **Stipulations on CBS and CBS' supervisors**: neither CBS nor CBS' employees can take part in an agreement on confidentiality between students and companies. Clauses regarding CBS and/or CBS' employees must therefore be removed, including signature lines.
 -   **Transfer of rights to the company from CBS**: As a public institution, CBS cannot transfer any rights to a company without being paid according to the market price.
-    ​​​​​​​
+    
 
 ## Download a guide to companies
 
-CBS has prepared guides about confidentiality and data protection to companies which you can give them. It can be in connection to an assignment, project or thesis that a company demands confidentiality and data protection.
+CBS has prepared guides about confidentiality and data protection to companies which you can give them. It can be in connection to an assignment, project or thesis that a company demands confidentiality and data protection.

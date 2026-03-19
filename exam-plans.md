@@ -1,9 +1,5 @@
 # Exam plans
 
-Exam practicalities
-
-Exam plans
-
 The exam plan for each semester is published at the beginning of the semester.
 
 To find the exam plan for your courses, check [Digital Exam](https://eksamen.cbs.dk/). Here you will find exam dates for the courses you are registered for in the current semester.
@@ -78,13 +74,13 @@ In the course descriptions you can check whether the course is a quarter or seme
 
 ## Exam dates for written exams
 
-You can see the exam dates for the courses, you are registered for on the following dates:
+You can see the exam dates for the courses, you are registered for on the following dates:
 
--   **Autumn semester**: 1 September - on [Digital Exam](https://eksamen.cbs.dk/)
--   **Spring semester**: 1 February - on [Digital Exam](https://eksamen.cbs.dk/)
--   **Summer University**: January - on [Summer University at cbs.dk](https://www.cbs.dk/en/study/international-summer-university/courses-and-exams)
+-   **Autumn semester**: 1 September - on [Digital Exam](https://eksamen.cbs.dk/)
+-   **Spring semester**: 1 February - on [Digital Exam](https://eksamen.cbs.dk/)
+-   **Summer University**: January - on [Summer University at cbs.dk](https://www.cbs.dk/en/study/international-summer-university/courses-and-exams)
 
-On [Digital Exam](https://eksamen.cbs.dk/) you can see exam dates for the courses, you are registered for in the current semester - also retakes.
+On [Digital Exam](https://eksamen.cbs.dk/) you can see exam dates for the courses, you are registered for in the current semester - also retakes.
 
 ## Exam dates for oral exams
 
@@ -108,7 +104,7 @@ Read more about the rules for arrival times under [Rules for oral exams].
 
 ## Time and exam order for oral exams
 
-You can find the specific date and place for your oral exams on [Digital Exam](https://eksamen.cbs.dk/).
+You can find the specific date and place for your oral exams on [Digital Exam](https://eksamen.cbs.dk/).
 
 Your exam time will be shown either as a number in an order or a specific starting time for your exam.
 
@@ -122,8 +118,8 @@ You will know the time of your exam from the number of minutes per student, comp
 
 You must show up well in time for your exam, and no later than:
 
--   ​​​the time of the day the exam is scheduled to start, if the time of your exam is before 13:00. See when your exam starts is on [Digital Exam](https://eksamen.cbs.dk/)
--   11:00 if the time of your exam is after 13:00
+-   the time of the day the exam is scheduled to start, if the time of your exam is before 13:00. See when your exam starts is on [Digital Exam](https://eksamen.cbs.dk/)
+-   11:00 if the time of your exam is after 13:00
 
 
 #### With a written product
@@ -142,7 +138,7 @@ The order for the exam is only a guideline. There is a risk of changes occurring
 
 This could mean that your exam will either be earlier or later than expected. It is your responsibility to be ready at the examination room when your name is called. If you are not present, you might risk using an exam attempt.
 
-## ​​​How to find the date of your retake exam
+## How to find the date of your retake exam
 
 You can see the date for your retake exams on the following dates:
 
@@ -156,11 +152,11 @@ Here you can see how to find the date of your retake exam on Digital Exam:
 
 ## What is an exam overlap?
 
-An exam overlap is when two exams are scheduled in the same period of time. Overlapping exams can be written sit-in exams, oral exams, or time-limited home assignments with a duration of either 24, 48, or 72 hours.
+An exam overlap is when two exams are scheduled in the same period of time. Overlapping exams can be written sit-in exams, oral exams, or time-limited home assignments with a duration of either 24, 48, or 72 hours.
 
-Not all cases where two exams are scheduled for the same day will be considered exam overlaps. Therefore, it might not be possible to change the exam dates in all cases.
+Not all cases where two exams are scheduled for the same day will be considered exam overlaps. Therefore, it might not be possible to change the exam dates in all cases.
 
-The examples below illustrate situations where there is an exam overlap and where there is not.
+The examples below illustrate situations where there is an exam overlap and where there is not.
 
 #### Example 1:
 
@@ -187,8 +183,8 @@ Overlap in 24-, 48- or 72-hour home assignments
 
 If you have an exam overlap, please contact us through the [Exam Helpdesk](https://eur02.safelinks.protection.outlook.com/?url=https://helpdesk.cbs.dk/Exams&data=05%7c01%7cstudentcommunication%40cbs.dk%7cb21e410ffe4c4151218e08dbec269ff8%7c875c414e5d004cdbb77adeae5d6ab201%7c0%7c0%7c638363423388926706%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c3000%7c%7c%7c&sdata=YW3Mvm/X6V/9R3HJKRIkPoWoOCmGv8Rr41%2BccWqgFso%3D&reserved=0):
 
--   Log on to [the Exams Helpdesk](https://eur02.safelinks.protection.outlook.com/?url=https://helpdesk.cbs.dk/Exams&data=05%7c01%7cstudentcommunication%40cbs.dk%7cb21e410ffe4c4151218e08dbec269ff8%7c875c414e5d004cdbb77adeae5d6ab201%7c0%7c0%7c638363423388926706%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c3000%7c%7c%7c&sdata=YW3Mvm/X6V/9R3HJKRIkPoWoOCmGv8Rr41%2BccWqgFso%3D&reserved=0) using your CBS username and password.​​​​​​​
--   Choose _Examination overlap_ in the first drop-down menu
+-   Log on to [the Exams Helpdesk](https://eur02.safelinks.protection.outlook.com/?url=https://helpdesk.cbs.dk/Exams&data=05%7c01%7cstudentcommunication%40cbs.dk%7cb21e410ffe4c4151218e08dbec269ff8%7c875c414e5d004cdbb77adeae5d6ab201%7c0%7c0%7c638363423388926706%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c3000%7c%7c%7c&sdata=YW3Mvm/X6V/9R3HJKRIkPoWoOCmGv8Rr41%2BccWqgFso%3D&reserved=0) using your CBS username and password.
+-   Choose _Examination overlap_ in the first drop-down menu
 -   Find one of the overlapping courses in the second drop-down menu. You can search for your course either by name or course number
 -   Under 'Message' state the names and course codes for the overlapping exams as well as the exam type.
 -   Please also include the name of your programme and which year/semester you are in

@@ -1,22 +1,18 @@
 # Special conditions at exams
 
-Exam practicalities
-
-Special conditions at exams
-
-​​​​In some cases it is possible to take your exam under special conditions. Here you can read about some of your options:
+In some cases it is possible to take your exam under special conditions. Here you can read about some of your options:
 
 __
 
 Taking a group exam alone
 
-You can only take a group exam as an individual exam if the course description states clearly that it is an option. This applies to both oral and written exams. In that case you do not have to apply to take a group exam individually. All you have to do is submit an individual paper.
+You can only take a group exam as an individual exam if the course description states clearly that it is an option. This applies to both oral and written exams. In that case you do not have to apply to take a group exam individually. All you have to do is submit an individual paper.
 
-If the course description does not clearly state that it is an option to take the exam individually, you will need an exemption from your Study Board.
+If the course description does not clearly state that it is an option to take the exam individually, you will need an exemption from your Study Board.
 
 Read more about [Exemptions].
 
-If the exam consists of both a written and an oral part, you will have to take both as individual exams. Always make sure you comply with the requirements for the paper. You can find the requirements in the course description.
+If the exam consists of both a written and an oral part, you will have to take both as individual exams. Always make sure you comply with the requirements for the paper. You can find the requirements in the course description.
 
 __
 
@@ -38,7 +34,7 @@ Read more about how to apply for [special conditions because of a handicap or fu
 
 Read more about your options as a full degree student for special conditions and support on [Special Educational Support (SPS)]
 
-Read more about extended time at the exam in the Study Administrative Rules (SAR) ​under [Exams and grading](https://sar.cbs.dk/en/bachelor-graduate-programmes/exams-and-grading/).
+Read more about extended time at the exam in the Study Administrative Rules (SAR) under [Exams and grading](https://sar.cbs.dk/en/bachelor-graduate-programmes/exams-and-grading/).
 
 **Application deadline**
 
@@ -64,7 +60,7 @@ You can also bring aids for measuring, dosing or taking medicine at exams such a
 
 For written exams without aids, you must put aids for measuring, dosing or taking medicine in your bag or coat, which must be placed away from your seat. When you need to use the aids, you can call an invigilator. You can then get out the aids and take them outside the exam room to measure, dose or take your medicine.
 
-If you use your phone for notifications about measuring or taking medicine, an invigilator can keep your phone and let you know when you get a notification.​
+If you use your phone for notifications about measuring or taking medicine, an invigilator can keep your phone and let you know when you get a notification.
 
 __
 
@@ -139,9 +135,9 @@ As a general rule, the thesis defence takes place on campus.
 
 If special circumstances prevent you from taking your exam from campus, you may apply for an exemption to hold your thesis defence online.
 
-You apply for an exemption via [exemption.cbs.dk](https://exemption.cbs.dk/). In exemption.cbs.dk, you need to select the category _Exams_ and the _Exam abroad or not at CBS_. Remember to upload all relevant documentation.
+You apply for an exemption via [exemption.cbs.dk](https://exemption.cbs.dk/). In exemption.cbs.dk, you need to select the category _Exams_ and the _Exam abroad or not at CBS_. Remember to upload all relevant documentation.
 
-Read more about applying for an [Exemption].
+Read more about applying for an [Exemption].
 
 The deadline for submitting your application is the same as for ordinary exams, i.e. you must apply 6 weeks before you hand in your thesis.
 
@@ -155,16 +151,16 @@ Exams abroad
 
 In some cases you may be allowed to take a written sit-in exam abroad. You will need an exemption from your study board.
 
-​Read more about [Exemptions]
+Read more about [Exemptions]
 
 **In addition, the following applies:**
 
 -   there must be practical or financial reasons for your inability to participate in the exam in Denmark.
 -   the exam must be held at a Danish representation (embassy or consulate) or at a different location abroad such e.g. a partner university.
--   ​you are responsible for arranging the practical conditions required for the exam to take place at the relevant institution abroad.
--   ​​you will also have to cover any expenses connected with taking the exam abroad.
+-   you are responsible for arranging the practical conditions required for the exam to take place at the relevant institution abroad.
+-   you will also have to cover any expenses connected with taking the exam abroad.
 
-Read more about exams abroad in the Study Administrative Rules (​SAR) under [Rules for written and oral examinations conducted abroad at bachelor and graduate programmes at CBS​](https://sar.cbs.dk/en/bachelor-graduate-programmes/exams-and-grading/).
+Read more about exams abroad in the Study Administrative Rules (SAR) under [Rules for written and oral examinations conducted abroad at bachelor and graduate programmes at CBS](https://sar.cbs.dk/en/bachelor-graduate-programmes/exams-and-grading/).
 
 __
 
@@ -174,7 +170,7 @@ Bringing special aids to an exam
 
 You have to apply for an exemption from your programme to bring special aids to your exam.
 
-Read more under [Exemptions]
+Read more under [Exemptions]
 
 
 
@@ -182,21 +178,21 @@ Read more under [Exemptions]
 
 If you have a handicap or function impairment, you can apply for an exemption to bring special aids to the exam.
 
-Read more about how to apply for [special conditions because of a handicap or function impairment].
+Read more about how to apply for [special conditions because of a handicap or function impairment].
 
-Read more about your options as a full degree student for special conditions and support on [Special Educational Support (SPS)]
+Read more about your options as a full degree student for special conditions and support on [Special Educational Support (SPS)]
 
-Read more about extended time at the exam in the Study Administrative Rules (SAR) ​under [Exams and grading](https://sar.cbs.dk/en/bachelor-graduate-programmes/exams-and-grading/).
+Read more about extended time at the exam in the Study Administrative Rules (SAR) under [Exams and grading](https://sar.cbs.dk/en/bachelor-graduate-programmes/exams-and-grading/).
 
 **Application deadline**
 
-The application deadlines for extended exam time are 24 September and 24 February, respectively. [Read more here].
+The application deadlines for extended exam time are 24 September and 24 February, respectively. [Read more here].
 
 
 
 #### Questions?
 
-If you have questions to your application, you can contact [your programme]
+If you have questions to your application, you can contact [your programme]
 
 Questions about special conditions at exams?
 

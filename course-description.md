@@ -1,15 +1,6 @@
-# Artificial Intelligence and Machine Learning (2025/2026)
+# Artificial Intelligence and Machine Learning (KAN-CINTO4003U, 2025/2026)
 
-
-
-
-# 2025/2026  KAN-CINTO4003U  Artificial Intelligence and Machine Learning
-
-English Title
-
-Artificial Intelligence and Machine Learning
-
-# Course information
+## Course information
 
 Language
 
@@ -151,14 +142,14 @@ Students can submit the same project or they can choose to submit a revised proj
 
 # Course content, structure and AI tools policy
 
-AI is poised to transform the business and technology landscape, and it has become essential for business leaders to understand the key technologies and concepts involved. This course covers several of the main AI technologies, including natural language processing and image recognition.  The primary focus is technical, and students are expected to be able to program in Python or a similar language, and to be familiar with machine learning techniques such as classification and regression.
+AI is poised to transform the business and technology landscape, and it has become essential for business leaders to understand the key technologies and concepts involved. This course covers several of the main AI technologies, including natural language processing and image recognition.  The primary focus is technical, and students are expected to be able to program in Python or a similar language, and to be familiar with machine learning techniques such as classification and regression.
 
-The course addresses several key aspects of the Nordic Nine -- especially under Knowledge ("analytical with data and curious about ambiguity" and "deep
-business knowledge placed in a broad context").
+The course addresses several key aspects of the Nordic Nine -- especially under Knowledge ("analytical with data and curious about ambiguity" and "deep
+business knowledge placed in a broad context").
 
 Students are expected to work with large language models and other forms of
 
-generative AI in exercises, assignments, and exams. As with any other software, it should be clearly stated how the AI models are used in the performance of a given exercise, assignment, or exam.
+generative AI in exercises, assignments, and exams. As with any other software, it should be clearly stated how the AI models are used in the performance of a given exercise, assignment, or exam.
 
 Research-based teaching
 
@@ -215,4 +206,4 @@ Expected literature
 
 The literature can be changed before the semester starts. Students are advised to find the literature on Canvas before they buy the books.
 
-Müller, A. C., & Guido, S. (2016). _Introduction to machine learning with Python: a guide for data scientists_.  O'Reilly Media, Inc.
+Müller, A. C., & Guido, S. (2016). _Introduction to machine learning with Python: a guide for data scientists_.  O'Reilly Media, Inc.

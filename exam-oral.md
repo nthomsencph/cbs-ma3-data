@@ -1,22 +1,18 @@
 # Rules for oral exams
 
-Oral exams
-
-Rules for oral exams
-
 ## Observe the rules
 
-It is your own responsibility to observe the rules. If you fail to do so, you risk being reported for exam cheating. Penalties for exam cheating may be very severe.
+It is your own responsibility to observe the rules. If you fail to do so, you risk being reported for exam cheating. Penalties for exam cheating may be very severe.
 
-You should know the rules, so that you do not violate them unintentionally. You will find the rules for oral exams here on this page. ​
+You should know the rules, so that you do not violate them unintentionally. You will find the rules for oral exams here on this page. 
 
-Find the rules for a specific exam​ in the course description in the [Course catalogue](http://kursuskatalog.cbs.dk/search.aspx?lang=en-GB)​​​​​.
+Find the rules for a specific exam in the course description in the [Course catalogue](http://kursuskatalog.cbs.dk/search.aspx?lang=en-GB).
 
-​Find rules for academic conduct (plagiarism)​ under [Exam cheating].
+Find rules for academic conduct (plagiarism) under [Exam cheating].
 
 ## Requirements and expectations
 
-When you are taking an exam, it is important that you read the course description. No matter what type of exam it is. The course description is where you find the learning objectives of the course, and these describe what the examiners expect of you at the exam. You should therefore familiarize yourself with the learning objectives before the exam, as they are what you will be tested on.​
+When you are taking an exam, it is important that you read the course description. No matter what type of exam it is. The course description is where you find the learning objectives of the course, and these describe what the examiners expect of you at the exam. You should therefore familiarize yourself with the learning objectives before the exam, as they are what you will be tested on.
 
 ## Exam aids
 
@@ -24,7 +20,7 @@ At the exam itself, when in the exam room, you are normally allowed to bring any
 
 You should always consider what exam aids actually make sense for you to bring along so that they do not hinder your performance instead of helping it.
 
-If you are taking an oral exam with preparation, you can read more about what you are allowed to bring at [Exam aids for oral exams]
+If you are taking an oral exam with preparation, you can read more about what you are allowed to bring at [Exam aids for oral exams]
 
 ## Remember your picture ID
 
@@ -68,7 +64,7 @@ The rules for online oral exams are the same as for oral exams on campus.
 
 However, there are certain things you need to be aware of e.g. meeting time and preparation.
 
-Read more about meeting time, platforms and how to prepare for oral exams on [Online oral exams]
+Read more about meeting time, platforms and how to prepare for oral exams on [Online oral exams]
 
 # Exam aids for oral exams
 
@@ -76,33 +72,33 @@ Oral exams
 
 Exam aids for oral exams
 
-An exam may be with or without exam aids.
+An exam may be with or without exam aids.
 
-There are three different types:
+There are three different types:
 
 -   No aids – closed book
 -   Limited aids
 -   All aids – open book
 
-## Only bring allowed exam aids
+## Only bring allowed exam aids
 
-It is your own responsibility to bring the exam aids you need and are allowed to use at exams. Therefore, you should always carefully check the course description for which exam aids you are allowed to bring and what will be at your disposal at the exam.​ If you use exam aids which are not allowed, you can be reported for cheating.
+It is your own responsibility to bring the exam aids you need and are allowed to use at exams. Therefore, you should always carefully check the course description for which exam aids you are allowed to bring and what will be at your disposal at the exam. If you use exam aids which are not allowed, you can be reported for cheating.
 
-Read more about [Exam cheating].
+Read more about [Exam cheating].
 
-As soon as you have been assigned your seat in the exam room, exam aids that are not allowed for the exam must be kept in your bag. This applies both before and during the exam.​
+As soon as you have been assigned your seat in the exam room, exam aids that are not allowed for the exam must be kept in your bag. This applies both before and during the exam.
 
-​​Mobile phones, headphones, smart watches and similar electronic equipment must be turned off, and you cannot take them out in the exam room.
+Mobile phones, headphones, smart watches and similar electronic equipment must be turned off, and you cannot take them out in the exam room.
 
 ## What can you bring to the exam room?
 
-At the exam itself, when in the exam room, you are normally allowed to bring any type of exam aid such as computer, reference books, notes etc. At some exams, however, there might be limits to what you are allowed to bring along. If this is the case it will explicitly state so in the course description.
+At the exam itself, when in the exam room, you are normally allowed to bring any type of exam aid such as computer, reference books, notes etc. At some exams, however, there might be limits to what you are allowed to bring along. If this is the case it will explicitly state so in the course description.
 
 You should always consider what exam aids actually make sense for you to bring along so that they do not hinder your performance instead of helping it.
 
 ## What can you bring to the preparation room?
 
-For oral exams with preparation, you are only allowed to have permitted exam aids out when you are in the preparation room. You should always read the course description to know what you are allowed to bring and what will be at your disposal at the exam.
+For oral exams with preparation, you are only allowed to have permitted exam aids out when you are in the preparation room. You should always read the course description to know what you are allowed to bring and what will be at your disposal at the exam.
 
 There are the following options:
 
@@ -132,13 +128,13 @@ Online oral exams
 
 ## Oral exam on campus or online?
 
-Most oral exams take place on campus. However, a few oral exams are online. You can see whether your oral exam is on campus or online in the course description and on [Digital Exam](https://eksamen.cbs.dk/).
+Most oral exams take place on campus. However, a few oral exams are online. You can see whether your oral exam is on campus or online in the course description and on [Digital Exam](https://eksamen.cbs.dk/).
 
-If your oral exam is on campus, you may under certain circumstances apply for an online oral exam.
+If your oral exam is on campus, you may under certain circumstances apply for an online oral exam.
 
-Read more on [Special conditions at exams > Oral exam online]
+Read more on [Special conditions at exams > Oral exam online]
 
-## ​​​​​​​​​​​​​​Remember to keep the rules
+## Remember to keep the rules
 
 The same rules apply to online oral exams as to normal [oral exams on campus].
 
@@ -146,13 +142,13 @@ In addition, special rules apply to online exams depending on the platform used.
 
 ## Time for your oral exam
 
-You can find the the time for your oral exam on [Digital Exam](https://eksamen.cbs.dk/).
+You can find the the time for your oral exam on [Digital Exam](https://eksamen.cbs.dk/).
 
 You can read more about finding the time on [Exam plans].
 
 ##
 
-## Meeting time online​
+## Meeting time online
 
 You have to be ready and logged on in good time before the exam starts:
 
@@ -160,11 +156,11 @@ You have to be ready and logged on in good time before the exam starts:
 
 #### Zoom:
 
-You will not get a specific exam time but you can use Digital Exam to figure out your expected exam time. In the exact same way as with exams on campus.​
+You will not get a specific exam time but you can use Digital Exam to figure out your expected exam time. In the exact same way as with exams on campus.
 
-You must be logged on and ready in the meeting on Zoom **no later than 1 hour before** the exam begins. You are to wait in the online waiting room until the examiner puts you in the examination room.​
+You must be logged on and ready in the meeting on Zoom **no later than 1 hour before** the exam begins. You are to wait in the online waiting room until the examiner puts you in the examination room.
 
-Please note: the first two students on the list should be logged on **no later than 15 minutes before** the exam starts.
+Please note: the first two students on the list should be logged on **no later than 15 minutes before** the exam starts.
 
 If students prior to you do not show up, the examiner will call you into the exam room so that your exam can start earlier - however no earlier than 1 hour before your exam time. If you are not present, the examiner will call in the next student on the order, and you risk using an exam attempt. In the exact same way as with exams on campus.
 
@@ -196,7 +192,7 @@ In Digital Exam you will find:
 
 ## How online exams are conducted
 
-You can read all about how an exam is conducted online on the different platforms and find guides and good advice on e.g. the technical aspects here:
+You can read all about how an exam is conducted online on the different platforms and find guides and good advice on e.g. the technical aspects here:
 
 Exams on Zoom
 
@@ -204,37 +200,37 @@ Exams on Microsoft Teams
 
 Exams on Adobe Connect
 
-## How to prepare for online oral exams
+## How to prepare for online oral exams
 
 As a rule, you should also prepare for an online exam in the same way you would for an on-campus exam.
 
-Read more about how to [prepare for oral exams]
+Read more about how to [prepare for oral exams]
 
-In addition, there are certain considerations and preparations to make before the exam especially in relation to the technical aspects to make sure that everything is working and you will be able to focus on the actual exam.
+In addition, there are certain considerations and preparations to make before the exam especially in relation to the technical aspects to make sure that everything is working and you will be able to focus on the actual exam.
 
 You can read more about those here:
 
 ## Online group exam
 
-​If you have an oral group exam or defence, you can choose to sit together in the same room or in separate rooms during the exam. It is your responsibility that the technical setup works during the exam – this includes ensuring that the internet connection is not overloaded.
+If you have an oral group exam or defence, you can choose to sit together in the same room or in separate rooms during the exam. It is your responsibility that the technical setup works during the exam – this includes ensuring that the internet connection is not overloaded.
 
 #### One or more computers?
 
-If you choose to sit together, you should consider if you want to sit at the same computer or at separate computers. If you choose two computers, you must use headsets to avoid echo.
+If you choose to sit together, you should consider if you want to sit at the same computer or at separate computers. If you choose two computers, you must use headsets to avoid echo.
 
-You must both be visible on the screen during the entire exam. It may be a good idea that you try out how it works on both one and two computers well in advance before the exam.
+You must both be visible on the screen during the entire exam. It may be a good idea that you try out how it works on both one and two computers well in advance before the exam.
 
-#### Only you and your group members in the room
+#### Only you and your group members in the room
 
-​CBS must still ensure that the safety and security measures correspond to those normally put in place during exams so that students do not receive external help during the exam. This means that there may not be anybody else than you and your fellow group members in the room during the exam.
+CBS must still ensure that the safety and security measures correspond to those normally put in place during exams so that students do not receive external help during the exam. This means that there may not be anybody else than you and your fellow group members in the room during the exam.
 
 ## Cannot attend the exam from home?
 
-If, for some reason, you cannot attend your online exam from home, you can take it on campus. -You can e.g. book a study seat or a group room at CBS and attend the exam from there. Remember to book a group room if it is an online oral exam as you are required to be completely alone for the exam (or _only_ together with your group).
+If, for some reason, you cannot attend your online exam from home, you can take it on campus. -You can e.g. book a study seat or a group room at CBS and attend the exam from there. Remember to book a group room if it is an online oral exam as you are required to be completely alone for the exam (or _only_ together with your group).
 
-You can read more about how to book a group room on [Book a study seat or group room].
+You can read more about how to book a group room on [Book a study seat or group room].
 
-You must follow all rules and guidelines for being on campus, including the requirements for a valid corona passport and face masks. Read more on [Being on campus].
+You must follow all rules and guidelines for being on campus, including the requirements for a valid corona passport and face masks. Read more on [Being on campus].
 
 Read more about:
 
@@ -278,10 +274,10 @@ We will follow up on all exams each day. You will receive an e-mail from the exa
 
 #### Contact us
 
-You are also more than welcome to send an e-mail to [exams@cbs.dk](mailto:exams@cbs.dk) and perhaps the exam administrator as well, describing what happened and which exam it is - please write the course code and title. We will then get back to you as quickly as possible.
+You are also more than welcome to send an e-mail to [exams@cbs.dk](mailto:exams@cbs.dk) and perhaps the exam administrator as well, describing what happened and which exam it is - please write the course code and title. We will then get back to you as quickly as possible.
 
 ## IT hotline
 
 The IT support is ready to provide technical support for everyone during all exams. They also have access to your online exam so that they will be able to help as quickly as possible.
 
-If you experience any issues, you can call the IT support exam hotline on **3815 3434**.
+If you experience any issues, you can call the IT support exam hotline on **3815 3434**.
